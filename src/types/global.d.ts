@@ -1,0 +1,1 @@
+// This file can be left empty as types are now declared in register-hooks.ts 
